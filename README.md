@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+- 🔭 I’m currently study at FuJen University Department of Statistics and Information Science
+- 🌱 I’m currently learning programming and mathematical statistics
 <!--
 **xuan9141/xuan9141** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
